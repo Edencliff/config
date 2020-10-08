@@ -7,9 +7,11 @@ brew "git"
 brew "gh"
 cask "spotify"
 cask "slack"
+cask "rectangle"
 
 # Editors
 cask "visual-studio-code"
+cask "emacs"
 
 # Cloud 
 brew "terraform"
