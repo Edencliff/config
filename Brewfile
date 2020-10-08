@@ -6,6 +6,7 @@ tap "homebrew/core"
 brew "git"
 brew "gh"
 cask "spotify"
+cask "slack"
 
 # Editors
 cask "visual-studio-code"
